@@ -1,4 +1,4 @@
-# Wedding Planner Platform
+# Wedding Planner Platform (Front-end In-Progress)
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 [![Build Status](https://img.shields.io/badge/build-passing-brightgreen)]()
