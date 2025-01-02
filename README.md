@@ -109,7 +109,12 @@ headers: {
 
 ## 📱 Screenshots
 
-[Add screenshots of your application here]
+![image](https://github.com/user-attachments/assets/4059ce0a-cc7f-4d28-82de-c75424a845b7)
+![image](https://github.com/user-attachments/assets/04889bce-38d2-4a0f-9127-42eb6fb9deb2)
+![image](https://github.com/user-attachments/assets/2e7c2c72-0aad-4723-aace-2194491cf358)
+
+
+
 
 ## 🤝 Contributing
 
